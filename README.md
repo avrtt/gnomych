@@ -1,3 +1,7 @@
+> ⚠️ Deprecation warning: this toolkit is now a part of the **[Paysage](https://github.com/avrtt/paysage)** library starting from 1.2 version. The **avrtt/gnomych** repository is no longer supported.
+
+<br/>
+
 Here you can find a tool that automates data cleaning tasks, validates raw data using rule-based constraints, provides data profiling and reporting, and offers automated correction suggestions for common data issues. It's designed to be used both as a standalone tool and as an integrated component in ETL pipelines.
 
 This project is a part of my freelance work that was published with the client's permission.
